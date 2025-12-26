@@ -6,15 +6,20 @@
 class Developer:
     def __init__(self):
         self.name = "luoyanglang"
-        self.role = "Software Engineer & Open Source Maintainer"
+        self.role = "Python Full-Stack Developer"
         self.location = "China 🇨🇳"
-        self.languages = ["Python", "Go", "JavaScript"]
-        self.interests = ["Blockchain", "Payment Systems", "Web Development"]
-        self.current_focus = "Building developer tools for crypto payments"
+        self.languages = ["Python", "JavaScript", "Go"]
+        self.focus_areas = [
+            "BEpusdt Python SDK",
+            "Telegram Bots & Automation",
+            "Blockchain & Web3",
+            "Web Development"
+        ]
+        self.current_project = "bepusdt-python-sdk - Python SDK Official Maintainer"
     
     def say_hi(self):
         print("Thanks for dropping by! Feel free to explore my projects 🚀")
-        print(f"Currently working on: {self.current_focus}")
+        print(f"Currently working on: {self.current_project}")
 
 me = Developer()
 me.say_hi()
@@ -34,10 +39,11 @@ me.say_hi()
 
 ### 💼 What I Do
 
-- 🔐 Building secure payment solutions with blockchain technology
-- 🐍 Python SDK development and maintenance
-- 🌐 Contributing to open source projects
-- 📚 Writing technical documentation
+- 🐍 Python full-stack development
+- 💰 BEpusdt Python SDK - Official Maintainer
+- 🤖 Telegram bot development & automation
+- ⛓️ Blockchain & Web3 applications
+- 🌐 Web development & API integration
 
 ---
 
