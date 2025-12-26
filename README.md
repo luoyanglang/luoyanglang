@@ -47,13 +47,7 @@ me.say_hi()
 
 ---
 
-### 📊 GitHub Stats
-
-![luoyanglang's GitHub stats](https://github-readme-stats.vercel.app/api?username=luoyanglang&show_icons=true&theme=radical)
-
----
-
-### 📫 Get in Touch
+### � GetH in Touch
 
 - 💬 Telegram: [@luoyanglang](https://t.me/luoyanglang)
 - 📧 GitHub: [@luoyanglang](https://github.com/luoyanglang)
