@@ -27,7 +27,7 @@ me.say_hi()
 - **[bepusdt-python-sdk](https://github.com/luoyanglang/bepusdt-python-sdk)** - Python SDK for BEpusdt Payment Gateway  
   ![PyPI](https://img.shields.io/pypi/v/bepusdt) ![Python](https://img.shields.io/pypi/pyversions/bepusdt)
 
-- **[BEpusdt](https://github.com/v03413/bepusdt)** - USDT/TRX/USDC Payment Gateway (Official Maintainer)  
+- **[BEpusdt](https://github.com/v03413/bepusdt)** - USDT/TRX/USDC Payment Gateway (python-sdk Official Maintainer)  
   ![Stars](https://img.shields.io/github/stars/v03413/bepusdt?style=social)
 
 ---
