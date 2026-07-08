@@ -19,7 +19,7 @@
 
 class Developer:
     def __init__(self):
-        self.name = "luoyanglang (狼哥)"
+        self.name = "langgejishu (狼哥)"
         self.role = "Python Full-Stack Developer & Open Source Enthusiast"
         self.location = "China 🇨🇳"
         self.languages = ["Python", "JavaScript", "Go"]
@@ -37,7 +37,7 @@ class Developer:
                 "tech": ["Python", "OpenAI", "Qwen", "DeepSeek"],
                 "stars": "⭐ Growing",
                 "status": "🚀 Active",
-                "demo": "https://t.me/xiaolangzaibot",
+                "demo": "https://t.me/xiaolangzai_bot",
                 "link": "https://github.com/luoyanglang/AI-Anti-Spam-Bot"
             },
             "📡 Telegram Monitor": {
@@ -94,7 +94,7 @@ me.say_hi()
 - ⚡ High-performance async processing
 - 🐳 Docker deployment ready
 
-**Try it:** [@xiaolangzaibot](https://t.me/xiaolangzaibot)
+**Try it:** [@xiaolangzai_bot](https://t.me/xiaolangzai_bot)
 
 </td>
 <td width="50%">
@@ -263,7 +263,7 @@ If my projects help you, consider supporting me:
 [![Star Repos](https://img.shields.io/badge/⭐_Star_My_Repos-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luoyanglang?tab=repositories)
 [![Sponsor](https://img.shields.io/badge/💰_Sponsor-USDT_TRC20-26A17B?style=for-the-badge&logo=tether&logoColor=white)](https://t.me/luoyanglang)
 
-**USDT (TRC20):** `TH51nmRTmG4VpNDhNFudjdXMZEh5211111`
+**USDT (TRC20):** `TQhAwH4zSsgP78CdqMNqpEDik988888888`
 
 </div>
 
