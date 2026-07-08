@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm luoyanglang (狼哥)!
+# 👋 Hi there, I'm langgejishu (狼哥)!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00ADD8&center=true&vCenter=true&width=940&lines=Python+Full-Stack+Developer;Open+Source+Enthusiast;AI+%26+Blockchain+Explorer" alt="Typing SVG" />
 
